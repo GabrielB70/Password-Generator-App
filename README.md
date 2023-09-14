@@ -1,2 +1,5 @@
 # Password-Generator-App
-Password Generator
+
+Password Generator App
+
+Pracrticing Html, Css and JavaScript 
