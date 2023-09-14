@@ -1,0 +1,31 @@
+main{
+    background-color: #353839;
+    padding: 50px;
+    margin: 10px white;
+    border-color: gray;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    color: white;
+    width: 400px;
+}
+#bolded{
+    color: #0892d0;
+}
+.divider{
+    border-bottom: 1px solid white;
+    margin: 12px 0;
+}    
+
+#btn{
+    color: white;
+    width: 150px;
+    background: #0892d0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
